@@ -4,9 +4,9 @@
 
 ![CodeMate Logo](https://img.shields.io/badge/CodeMate-코딩스터디_솔루션-blue?style=for-the-badge)
 
-**코딩 스터디를 더 쉽고 효율적으로**
+**코딩테스트 스터디를 더 쉽고 효율적으로**
 
-[🌐 Website](https://www.codemate.kr/) | [📧 Contact](mailto:contact@codemate.kr)
+[🌐 Website](https://www.codemate.kr/) | [📧 Contact](mailto:ryu_eclipse@naver.com)
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ## 📖 About CodeMate
 
-CodeMate는 코딩 스터디 그룹을 위한 올인원 솔루션입니다.
+CodeMate는 코딩테스트 스터디 그룹을 위한 올인원 솔루션입니다.
 
 ### ✨ 주요 기능
 
@@ -39,23 +39,13 @@ CodeMate는 코딩 스터디 그룹을 위한 올인원 솔루션입니다.
 
 ---
 
-## 🤝 함께 만들어요
-
-CodeMate는 오픈소스 프로젝트입니다. 여러분의 기여를 환영합니다!
-
-- 🐛 버그 리포트
-- 💡 기능 제안
-- 🔧 Pull Request
-- 📖 문서 개선
-
----
 
 ## 📞 연락처
 
 궁금한 점이 있으시면 언제든지 연락주세요!
 
 - **Website**: [https://www.codemate.kr/](https://www.codemate.kr/)
-- **Email**: contact@codemate.kr
+- **Email**: ryu_eclipse@naver.com
 
 ---
 
