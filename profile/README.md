@@ -90,10 +90,4 @@ CodeMate는 코딩테스트 스터디 그룹을 위한 올인원 솔루션입니
 
 ---
 
-<div align="center">
-
-**CodeMate와 함께 더 나은 코딩 스터디를 경험하세요! 💪**
-
-Made with ❤️ by CodeMate Team
-
 </div>
