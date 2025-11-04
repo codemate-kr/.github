@@ -4,7 +4,6 @@ about: 설정, 빌드, 의존성 등 기타 작업
 title: '[CHORE] '
 labels: ['chore']
 assignees: ''
-order: 4
 ---
 
 ## 작업 내용

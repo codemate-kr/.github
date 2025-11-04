@@ -4,7 +4,6 @@ about: 새로운 기능 아이디어
 title: '[FEATURE] '
 labels: ['enhancement']
 assignees: ''
-order: 1
 ---
 
 ## 기능 설명
