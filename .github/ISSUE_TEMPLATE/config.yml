@@ -1,8 +1,5 @@
 blank_issues_enabled: true
 contact_links:
-  - name: 💬 Discussion
-    url: https://github.com/codemate-kr/.github/discussions
-    about: 일반적인 질문이나 토론은 여기에서 진행해 주세요
   - name: 🌐 CodeMate 웹사이트
     url: https://www.codemate.kr/
     about: CodeMate 공식 웹사이트를 방문하세요
