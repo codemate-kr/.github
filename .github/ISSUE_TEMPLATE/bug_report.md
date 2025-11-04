@@ -1,9 +1,10 @@
 ---
-name: 버그 리포트
+name: [BUG] 버그 리포트
 about: 버그 이슈 트래킹
 title: '[BUG] '
 labels: ['bug']
 assignees: ''
+order: 3
 ---
 
 ## 문제 설명

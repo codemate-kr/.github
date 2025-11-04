@@ -1,9 +1,10 @@
 ---
-name: 리팩토링
+name: [REFACTOR] 리팩토링
 about: 코드 개선 및 리팩토링
 title: '[REFACTOR] '
 labels: ['refactor']
 assignees: ''
+order: 2
 ---
 
 ## 대상 코드
