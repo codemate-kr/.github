@@ -1,5 +1,5 @@
 ---
-name: [FEATURE] 기능 요청
+name: "[FEATURE] 기능 요청"
 about: 새로운 기능 아이디어
 title: '[FEATURE] '
 labels: ['enhancement']
