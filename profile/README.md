@@ -10,7 +10,7 @@
 [🌐 코드메이트](https://www.codemate.kr/)
 
 </div>
-<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/5c61a021-7ec1-4036-ae09-d3ac19df257c" />
+<img width="1386" height="943" alt="image" src="https://github.com/user-attachments/assets/a368ac0e-48b6-4579-a488-2a3d28976940" />
 
 ---
 
