@@ -54,13 +54,12 @@ CodeMate는 코딩테스트 & 알고리즘 스터디 플랫폼입니다.
 ![내 학습 대시보드 화면](https://github.com/user-attachments/assets/0a2e25f8-8fbc-419a-9c5f-8ac42380eac9)
 
 ---
----
 
 ## 3. 팀 페이지 – 스터디 문제 해결 인증
 
 ![팀 페이지 문제 해결 인증 화면](https://github.com/user-attachments/assets/945a3c76-1061-4ecf-a4d1-d17e22ca1422)
 
----
+
 
 ## ✅ 문제 해결 인증 결과
 
