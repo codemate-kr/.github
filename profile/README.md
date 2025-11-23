@@ -33,6 +33,43 @@ CodeMate는 코딩테스트 & 알고리즘 스터디 플랫폼입니다.
 
 ✅ **CodeMate로 모든 것을 자동화하세요!**
 
+# 📸 스크린샷
+
+서비스 주요 화면과 상호작용 흐름을 한눈에 볼 수 있도록 정리했습니다.
+
+---
+
+## 1. 미션 문제 이메일 알림
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e5395e9b-c472-49fc-a124-d2c534da744b"
+       alt="미션 문제 이메일 알림 화면"
+       width="700" />
+</p>
+
+---
+
+## 2. 내 학습 대시보드
+
+![내 학습 대시보드 화면](https://github.com/user-attachments/assets/0a2e25f8-8fbc-419a-9c5f-8ac42380eac9)
+
+---
+---
+
+## 3. 팀 페이지 – 스터디 문제 해결 인증
+
+![팀 페이지 문제 해결 인증 화면](https://github.com/user-attachments/assets/945a3c76-1061-4ecf-a4d1-d17e22ca1422)
+
+---
+
+## ✅ 문제 해결 인증 결과
+
+| 성공 시 | 실패 시 |
+|--------|---------|
+| ![문제 해결 인증 성공 GIF](https://blog.kakaocdn.net/dna/xo5qI/dJMcahv1ju2/AAAAAAAAAAAAAAAAAAAAAHbVsQkBWHT4KH1wrqtWgL7RJ-DJm8Q1-QRb6qDtCpE3/img.gif?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1764514799&allow_ip=&allow_referer=&signature=3M%2BwItawI9oKW55n%2BT8%2BFnVqJDA%3D) | ![문제 해결 인증 실패 GIF](https://blog.kakaocdn.net/dna/3v2zz/dJMcabigORz/AAAAAAAAAAAAAAAAAAAAABdZal2ZO08bphomUNQa7UQWaWIZYiDSrdPbLiw104YY/img.gif?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1764514799&allow_ip=&allow_referer=&signature=XyAOWmKqpwR3ytALfYbbCYCDbNo%3D) |
+
+
+
 ---
 
 ## 🛠 기술 스택
