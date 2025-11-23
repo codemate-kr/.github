@@ -3,11 +3,11 @@
 
 <div align="center">
 
-![CodeMate Logo](https://img.shields.io/badge/CodeMate-코딩스터디_솔루션-blue?style=for-the-badge)
+![CodeMate Logo](https://img.shields.io/badge/CodeMate-코딩스터디_플랫폼-blue?style=for-the-badge)
 
 **코딩테스트 스터디를 더 쉽고 효율적으로**
 
-[🌐 코드메이트](https://www.codemate.kr/) | [📧 Contact](mailto:ryu_eclipse@naver.com)
+[🌐 코드메이트](https://www.codemate.kr/)
 
 </div>
 <img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/5c61a021-7ec1-4036-ae09-d3ac19df257c" />
