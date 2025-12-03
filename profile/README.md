@@ -50,6 +50,7 @@ CodeMate는 코딩테스트 & 알고리즘 스터디 플랫폼입니다.
 ## 2. 내 학습 대시보드
 
 ![내 학습 대시보드 화면](https://github.com/user-attachments/assets/0a2e25f8-8fbc-419a-9c5f-8ac42380eac9)
+<img width="1232" height="382" alt="image" src="https://github.com/user-attachments/assets/edba984a-af7f-478b-bca7-51b49548980b" />
 
 ---
 
