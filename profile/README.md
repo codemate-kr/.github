@@ -18,4 +18,4 @@
 
 **문의 & 커뮤니티**
 - Discord: (준비 중)
-- Email: ryu_eclipse@naver.com
+- Email: codemate.study.official@gmail.com
