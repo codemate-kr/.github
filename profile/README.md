@@ -14,8 +14,3 @@
 ---
 
 `⭐Star`를 눌러주시면 아주 큰 힘이 됩니다!
-
-
-**문의 & 커뮤니티**
-- Discord: (준비 중)
-- Email: codemate.study.official@gmail.com
