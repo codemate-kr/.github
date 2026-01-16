@@ -9,7 +9,7 @@
 
 > 스터디 운영에 드는 시간을 줄이고, **문제 풀이에만 집중**해보세요!
 
-👉 **[CodeMate 바로가기](https://www.codemate.kr/)**
+👉 **[CodeMate 바로가기](https://codemate.kr/)**
 
 ---
 
