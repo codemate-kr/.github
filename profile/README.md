@@ -11,6 +11,8 @@
 
 👉 **[CodeMate 바로가기](https://codemate.kr/)**
 
+🛠️ [패치노트 보기](https://github.com/codemate-kr/codemate_BE/releases)
+
 ---
 
 `⭐Star`를 눌러주시면 아주 큰 힘이 됩니다!
