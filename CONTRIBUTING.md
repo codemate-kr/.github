@@ -74,7 +74,7 @@ chore: 빌드 작업, 패키지 매니저 설정 등
 
 언제든지 다음으로 연락주세요:
 - GitHub Discussions에 질문 게시
-- contact@codemate.kr로 이메일 보내기
+- codemate.study.official@gmail.com로 이메일 보내기
 
 ## 행동 강령
 
